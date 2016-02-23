@@ -24,7 +24,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    
+    //  ssssss
     [self configUI];
     [WXApiManager sharedManager].delegate = self;
     

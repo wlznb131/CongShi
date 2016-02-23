@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/Controller/CSFavoriteViewController.m \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CongShi.pch \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSAppDefs.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSNavigationViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/UIImage+ImageEffects.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/UIView+CSCategory.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSImageColorPicker/UIColor+CSCompatibility.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/UINavigationController+JZExtension.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSCustomTabBarViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/NSString+Size.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/MySelf/CSPlaceObject.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/MySelf/CSCommonDefault.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/MySelf/CSUrlHeader.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSHttpRequest/CSHttpTool.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSCustomBackButton.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/Controller/CSFavoriteViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSBaseViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSFavoriteCollectionViewCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/Controller/CSFavoriteDetailViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSSegment/CSSegmentPageViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSSegment/CSSegmentPageControllerHeaderProtocol.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSSegment/CSSegmentPageHeader.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSSegment/CSSegmentControllerDelegate.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSSegment/CSSegmentView.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSCycleScrollView/CSBannerView.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSCycleScrollView/CSBannerFooter.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/Model/CSImageObject.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/LoginAndRegister/Controller/CSLoginViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapSearchKit.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapSearchAPI.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapSearchObj.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapCommonObj.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapSearchError.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapSearchServices.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapNearbySearchManager.h \
+  /Users/archy/Desktop/CongShi/CongShi/AMapSearchKit.framework/Headers/AMapNearbyUploadInfo.h

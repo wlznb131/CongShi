@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/archy/Desktop/CongShi/Pods/Target\ Support\ Files/AFNetworking/AFNetworking-dummy.m \
+  /Users/archy/Desktop/CongShi/Pods/Target\ Support\ Files/AFNetworking/AFNetworking-prefix.pch

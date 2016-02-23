@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/Controller/CSCourseViewController.m \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CongShi.pch \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSAppDefs.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSNavigationViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/UIImage+ImageEffects.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/UIView+CSCategory.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSImageColorPicker/UIColor+CSCompatibility.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/UINavigationController+JZExtension.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSCustomTabBarViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Utility/NSString+Size.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/MySelf/CSPlaceObject.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/MySelf/CSCommonDefault.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/MySelf/CSUrlHeader.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSHttpRequest/CSHttpTool.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSCustomBackButton.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/Controller/CSCourseViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Other/CSBaseViewController.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/Model/CSImageObject.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSSegment/CSSegmentControllerDelegate.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Lib/Custom/CSStickySectionHeadersLayout.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Find/View/CSCollectionSectionHeader.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseRecordCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseRecommendCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseGuideCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseMapCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseMessageCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseDescriptionCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseApprenticeCell.h \
+  /Users/archy/Desktop/CongShi/CongShi/Classes/Favorite/View/CSCourseEnrollCell.h

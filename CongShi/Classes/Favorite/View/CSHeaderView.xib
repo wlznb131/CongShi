@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9532" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CSHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="280"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="lAi-40-aBo">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="280"/>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iIj-EA-Srg" customClass="CSFavoriteBlurView">
+                    <rect key="frame" x="0.0" y="8" width="375" height="667"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="667" id="ZPX-1m-Wpl"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="微电影工厂 (MFF)实景拍摄课程" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8ru-sG-qJX">
+                    <rect key="frame" x="20" y="217" width="209" height="18"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Prof.Roger S.Christiansen" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kAz-8T-dWU">
+                    <rect key="frame" x="20" y="245.5" width="144.5" height="14.5"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleAspectFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="21H-Zm-Mga">
+                    <rect key="frame" x="303" y="243.5" width="52" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="52" id="4lX-zf-8Mh"/>
+                        <constraint firstAttribute="height" constant="20" id="Gi3-qg-5T7"/>
+                    </constraints>
+                    <state key="normal" title="关注">
+                        <color key="titleColor" red="0.035294117649999998" green="0.82352941180000006" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="21H-Zm-Mga" secondAttribute="trailing" constant="20" id="5wL-pJ-wuh"/>
+                <constraint firstItem="8ru-sG-qJX" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="FES-Vh-Btu"/>
+                <constraint firstAttribute="trailing" secondItem="iIj-EA-Srg" secondAttribute="trailing" id="OXT-JQ-zu2"/>
+                <constraint firstAttribute="trailing" secondItem="lAi-40-aBo" secondAttribute="trailing" id="QQ7-2Z-I1Z"/>
+                <constraint firstItem="iIj-EA-Srg" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Qul-Mh-vlw"/>
+                <constraint firstItem="21H-Zm-Mga" firstAttribute="centerY" secondItem="kAz-8T-dWU" secondAttribute="centerY" id="SaF-MN-gKd"/>
+                <constraint firstAttribute="bottom" secondItem="lAi-40-aBo" secondAttribute="bottom" id="YHE-Ox-WTY"/>
+                <constraint firstAttribute="bottom" secondItem="iIj-EA-Srg" secondAttribute="bottom" constant="-395" id="b4H-8Z-OMq"/>
+                <constraint firstAttribute="bottom" secondItem="8ru-sG-qJX" secondAttribute="bottom" constant="45" id="hAx-Gg-YFY"/>
+                <constraint firstItem="kAz-8T-dWU" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="20" id="mvb-Kf-3Dw"/>
+                <constraint firstAttribute="bottom" secondItem="kAz-8T-dWU" secondAttribute="bottom" constant="20" id="pez-yR-fay"/>
+                <constraint firstItem="lAi-40-aBo" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="qzo-ql-7U4"/>
+                <constraint firstItem="lAi-40-aBo" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="x7t-Nr-k9Z"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="blurView" destination="iIj-EA-Srg" id="byy-fX-j0a"/>
+                <outlet property="headAttention" destination="21H-Zm-Mga" id="miZ-Ib-M60"/>
+                <outlet property="headDescription" destination="kAz-8T-dWU" id="pv4-46-X4v"/>
+                <outlet property="headImage" destination="lAi-40-aBo" id="JQ0-ge-vIO"/>
+                <outlet property="headName" destination="8ru-sG-qJX" id="9fQ-9i-CTF"/>
+            </connections>
+            <point key="canvasLocation" x="177.5" y="346"/>
+        </view>
+    </objects>
+</document>
